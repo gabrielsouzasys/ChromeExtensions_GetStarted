@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "version": "1.0.0",
+    "name": "Hello World",
+    "description": "Gabriel Extensions",
+    "author": "Gabriel de Souza",
+    "browser_action": {
+   	 "default_title": "Hello World",
+   	 "default_popup": "index.html",
+   	 "default_icon": "icon.png"
+    }
+}
